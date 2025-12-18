@@ -89,6 +89,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - Other skills like **R, Snowflake, Pandas,** and **Excel** show varying degrees of demand.
 
 ![Top Five Skills Graph](assets/1_top_five_skills.png)
+
 *This is a bar graph showing these results generated using ChatGPT.*
 
 ## 3. In-Demand Skills for Data Analysts
